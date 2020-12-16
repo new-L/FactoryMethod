@@ -1,0 +1,13 @@
+D:\C#Project\Patterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.exe
+D:\C#Project\Patterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+D:\C#Project\Patterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.json
+D:\C#Project\Patterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.runtimeconfig.dev.json
+D:\C#Project\Patterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+D:\C#Project\Patterns\FactoryMethod\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+D:\C#Project\Patterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csprojAssemblyReference.cache
+D:\C#Project\Patterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+D:\C#Project\Patterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+D:\C#Project\Patterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.CoreCompileInputs.cache
+D:\C#Project\Patterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+D:\C#Project\Patterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
+D:\C#Project\Patterns\FactoryMethod\obj\Debug\netcoreapp3.1\FactoryMethod.genruntimeconfig.cache

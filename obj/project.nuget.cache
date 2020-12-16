@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nbTQ4pjX6YC3PE0fejQCy297HItOgP+JMk+FX3lmPU/ksb8msI7Ghi+6RZdw3SwZs6XIkHcl4HRAcE71Bb9Ksg==",
+  "success": true,
+  "projectFilePath": "D:\\C#Project\\Patterns\\FactoryMethod\\FactoryMethod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\seyda\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\seyda\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
