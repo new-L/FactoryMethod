@@ -4,6 +4,7 @@ using System.Text;
 
 namespace FactoryMethod
 {
+    //Конкретные классы представляют реализацию класса Product. Таких классов может быть множество
     #region Конкретные объекты
     class Circle : IShape
     {
