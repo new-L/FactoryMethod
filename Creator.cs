@@ -6,6 +6,7 @@ namespace FactoryMethod
 {
     class Creator
     {
+        //Абстрактный класс Creator определяет абстрактный фабричный метод FactoryMethod(), который возвращает объект Product.
         //За параметр у нас отвечает любая сторона фигуры, h - высота
         public IShape FactoryMethod(string shapeType, float parametr, float h)
         {
